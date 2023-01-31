@@ -1,0 +1,22 @@
+{
+  "name": "vjs-redux-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "server": "node server/server.js"
+  },
+  "dependencies": {
+    "redux": "4.0.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.8",
+    "express": "^4.18.2",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
